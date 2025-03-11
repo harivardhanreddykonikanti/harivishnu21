@@ -7,7 +7,7 @@ public class EvenNumber {
          if(num%2==0) {
         	 System.out.println("yes it is Even Number");
          }else {
-        	 System.out.println("Odd Number");
+        	 System.out.println("yes it is Odd Number");
          }
 	}
 
